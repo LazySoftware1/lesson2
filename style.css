@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+.item_price{
+    background-color: green;
+    color: black;
+}
+
+.advertising{
+    font-style: oblique;
+    font-size: 24px;
+    text-align: center;
+    background-color: green;
+}
